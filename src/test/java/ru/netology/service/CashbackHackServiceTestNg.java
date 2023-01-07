@@ -36,7 +36,7 @@ public class CashbackHackServiceTestNg {
     public void buyThousand(){
         CashbackHackServiceNg serviceNg = new CashbackHackServiceNg();
         int amount = 1000;
-        int expected =1000;
+        int expected =0;
         int actual = serviceNg.remain(1000);
         assertEquals(actual,expected);
     }

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d669852-627c-4bbc-b4c4-3b1e8955f4aa" name="Changes" comment="" />
+    <list default="true" id="0d669852-627c-4bbc-b4c4-3b1e8955f4aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTestNg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTestNg.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +111,7 @@
       <recent name="ru.netology.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.CashbackHackServiceTestNg">
+  <component name="RunManager" selected="Gradle.unit5 [test]">
     <configuration name="CashbackHackServiceTestNg" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -124,29 +126,6 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;ru.netology.service.CashbackHackServiceTestNg&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="CashbackHackServiceTestNg.buyEqualsBoundary" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;ru.netology.service.CashbackHackServiceTestNg.buyEqualsBoundary&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -225,13 +204,34 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="unit5 [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.unit5 [test]" />
+        <item itemvalue="Gradle.CashbackHackServiceTestNg.buyThousand" />
         <item itemvalue="Gradle.CashbackHackServiceTestNg" />
         <item itemvalue="Gradle.CashbackHackServiceTestNg.testRemain" />
         <item itemvalue="Gradle.CashbackHackServiceTestNg.buyNotEqualsBoundary" />
-        <item itemvalue="Gradle.CashbackHackServiceTestNg.buyThousand" />
-        <item itemvalue="Gradle.CashbackHackServiceTestNg.buyEqualsBoundary" />
       </list>
     </recent_temporary>
   </component>
